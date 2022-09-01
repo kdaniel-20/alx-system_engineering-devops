@@ -1,1 +1,1 @@
-Move the file betty from /tmp/ to /tmp/my_first_directory.
+script that prints the effective username of the current user
